@@ -1,0 +1,33 @@
+This is my startup project about E-commerce retailer.
+The idea is combine the each areas' retailer, whatever it is 
+in the city or in the rural area.
+
+The problem:
+I find out I am a lazy person, I don't like shopping, especially
+shopping for clothes or food. Several days ago, I bought a potatoes chips from 
+lovely God(one of my childhood favorite snacks ) Tmalls online store.
+But it took more than 3 days to deliver to my home. I am very frustrated 
+about time of delivering. 
+
+So I decide to create a retailer web application, where customers who want
+to buy food or articles for daily use can immediately place the order, then 
+the local retailer can send the goods immediately for the customers( at least
+less than a day or half day to deliver to customers), so customers don't 
+have to wait their food or article for daily use like crazy. 
+
+Besides, it can promote the local retailer sales.
+
+Requirement:
+This app should have three part:
+1. customer
+2. retailer
+3. system manager
+
+And the app mainly is a web application, which should can be used on the 
+modern PC browser and mobile phone Brower(it will adjust the resolution according to the devise's screen size)
+
+1.first version
+it should have the ability like Taobao or Tmalls shopping basic ability
+2.second version
+customized function: 1.input the use the GPS to locate the customer location.
+                      2.find the closest retailer, place the order and the system will automate choose the quickly and available retailer to deliver the product that customers want
