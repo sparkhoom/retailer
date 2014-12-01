@@ -3,6 +3,7 @@ zh-CN:
     attributes:
       user:
         email: "电子邮箱"
+        phone_number : "手机号码"
         name: "用户名"
         password: "密码"
         password_confirmation: "请再次输入"
@@ -12,6 +13,7 @@ zh-CN:
           attributes:
             email:
               blank: "不能为空"
+              taken: "已被注册"
             password:
               confirmation: "密码不匹配"
               too_short: "最短%{count}个字符"
