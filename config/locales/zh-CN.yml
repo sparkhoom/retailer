@@ -1,0 +1,23 @@
+zh-CN:
+  activerecord:
+    attributes:
+      user:
+        email: "电子邮箱"
+        name: "用户名"
+        password: "密码"
+        password_confirmation: "请再次输入"
+    errors:
+      models:
+        user:
+          attributes:
+            email:
+              blank: "不能为空"
+            password:
+              confirmation: "密码不匹配"
+              too_short: "最短%{count}个字符"
+              blank: "不能为空"
+            password_digest:
+              blank: "不能为空"
+            name:
+              blank: "请添加用户名"
+              taken: "已占用"

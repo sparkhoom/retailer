@@ -1,0 +1,17 @@
+.field_with_errors {
+  label {
+    color: red;
+  }
+}
+
+dl.form dd.error {
+  display: inline-block;
+  padding: 5px;
+  font-size: 11px;
+  color: #494620;
+  background: #f7ea57;
+  border: 1px solid #c0b536;
+  border-top-color: #fff;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+}

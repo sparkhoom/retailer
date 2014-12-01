@@ -28,6 +28,8 @@ modern PC browser and mobile phone Brower(it will adjust the resolution accordin
 
 1.first version
 it should have the ability like Taobao or Tmalls shopping basic ability
+  customized User function(register, login, logout):
+  phone number, email(forget password), password, username
 2.second version
 customized function: 1.input the use the GPS to locate the customer location.
                       2.find the closest retailer, place the order and the system will automate choose the quickly and available retailer to deliver the product that customers want
