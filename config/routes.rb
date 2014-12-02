@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :products
+
   root to: "users#welcome"
   get "login" => "users#login", :as => "login"
   get "signup" => "users#signup", :as => "signup"
